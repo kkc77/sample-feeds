@@ -24999,3 +24999,5 @@ https://google.com/invalid/24998
 https://google.com/invalid/24999
 https://google.com/invalid/25000
 https://www.bbc.com
+https://www.yahoo.com
+http://neverssl.com
